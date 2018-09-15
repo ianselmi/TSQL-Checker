@@ -215,3 +215,4 @@ pip-log.txt
 #Mr Developer
 .mr.developer.cfg
 /.vs/TSQLSmells/v15/Server/sqlite3
+/packages/Microsoft.SqlServer.DacFx.x64.140.3881.1

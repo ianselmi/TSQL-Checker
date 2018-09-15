@@ -1,5 +1,8 @@
 Progetto liberamente preso da :https://github.com/davebally/TSQL-Smells
 <br>
+con l'aggiunta dei seguenti controlli:<br>
+* RaiseErrorProcessor
+
 Path di installazione:<br>
 * **VS2017** - %ProgramFiles(x86)%\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\Extensions\Microsoft\SQLDB\DAC<br>
   * *SQL2016* -> cartella 150
